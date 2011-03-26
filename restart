@@ -1,0 +1,3 @@
+killall lighttpd
+sleep 2
+lighttpd -f local_lighttpd.conf
